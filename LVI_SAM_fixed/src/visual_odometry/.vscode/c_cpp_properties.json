@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/skywoodsz/LVI_SAM_ws/devel/include/**",
+        "/home/skywoodsz/QM_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/skywoodsz/QM_ws/src/cheetah_ros/cheetah_basic_controllers/include/**",
+        "/home/skywoodsz/QM_ws/src/cheetah_ros/cheetah_common/include/**",
+        "/home/skywoodsz/QM_ws/src/cheetah_ros/cheetah_gazebo/include/**",
+        "/home/skywoodsz/QM_ws/src/cheetah_ros/cheetah_mpc_controllers/include/**",
+        "/home/skywoodsz/QM_ws/src/ibvs_control/include/**",
+        "/home/skywoodsz/QM_ws/src/cheetah_ros/joy_cmd/include/**",
+        "/home/skywoodsz/QM_ws/src/robot_mrobot/mrobot_bringup/include/**",
+        "/home/skywoodsz/QM_ws/src/sensor/realsense_ros_gazebo/include/**",
+        "/home/skywoodsz/QM_ws/src/unitree/unitree_ros/unitree_controller/include/**",
+        "/home/skywoodsz/QM_ws/src/unitree/unitree_ros/unitree_legged_control/include/**",
+        "/home/skywoodsz/QM_ws/src/sensor/velodyne_simulator/velodyne_gazebo_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

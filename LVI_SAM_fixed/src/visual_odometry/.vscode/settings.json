@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/skywoodsz/LVI_SAM_ws/devel/lib/python3/dist-packages",
+        "/home/skywoodsz/QM_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
