@@ -1,1 +1,1 @@
-# LVI-SAM-whit-LegOdom
+# LVI-SAM-with-LegOdom
